@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1R-cXu0tmtU_c3WHXGZKJ23sXVYUhi3Np
+View your app in AI Studio: https://ai.studio/apps/drive/1kGZl4Emw6-3Mt7N5N_XTZB4W4HvBVBhX
 
 ## Run Locally
 
@@ -18,4 +18,3 @@ View your app in AI Studio: https://ai.studio/apps/drive/1R-cXu0tmtU_c3WHXGZKJ23
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-# simulado-caixa
